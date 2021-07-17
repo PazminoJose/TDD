@@ -3,7 +3,7 @@ using Ejemplo1;
 namespace Ejemplo1.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class RaizCuadradaTest
     {
         [TestMethod]
         public void RaizCuadrada_4()
